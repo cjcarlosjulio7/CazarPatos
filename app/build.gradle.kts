@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "com.carlos.bayas.cazarpatos"
-        minSdk = 24
+        minSdk = 28 /*minimo 28*/
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
